@@ -1,123 +1,121 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# udacity_ait_prj8
 
-[Link to another page](./another-page.html).
+[udacity_ait_prj8](https://github.com/hkatarki/udacity_ait_prj8)
+This project contains source files related to back testing.
 
-There should be whitespace between paragraphs.
+# udacity_ait_prj7
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[udacity_ait_prj7](https://github.com/hkatarki/udacity_ait_prj7)
+This project contains the files related to combining signals for enhanced alpha.
 
-# Header 1
+# udacity_ait_prj6
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[udacity_ait_prj6](https://github.com/hkatarki/udacity_ait_prj6)
+This project contains the files related to sentiment analysis with neural networks.
 
-## Header 2
+# udacity_ait_prj5
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[udacity_ait_prj5](https://github.com/hkatarki/udacity_ait_prj5)
+This project contains the files related to NLP on financial statements.
 
-### Header 3
+# udacity_ait_prj4
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+[udacity_ait_prj4](https://github.com/hkatarki/udacity_ait_prj4)
+This project contains the files related to alpha research and factor modeling.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# udacity_ait_prj3
 
-#### Header 4
+[udacity_ait_prj3](https://github.com/hkatarki/udacity_ait_prj3)
+This project contains the files related to smart beta portfolio optimization.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+# udacity_ait_prj2
 
-##### Header 5
+[udacity_ait_prj2](https://github.com/hkatarki/udacity_ait_prj2)
+This project contains the files related to Breakout strategy.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+# udacity_ait_prj1
 
-###### Header 6
+[udacity_ait_prj1](https://github.com/hkatarki/udacity_ait_prj1)
+This project contains the files related to Trading with momentum.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+# vhd_ycbcr2rgb_sdtv_async_top
 
-### There's a horizontal rule below this.
+[vhd_ycbcr2rgb_sdtv_async_top](https://github.com/hkatarki/vhd_ycbcr2rgb_sdtv_async_top)
+This project contains ycbcr to rgb for sd tv (vhd)
 
-* * *
+# vhd_ycbcr2rgb_sd_computer_async_top
 
-### Here is an unordered list:
+[vhd_ycbcr2rgb_sd_computer_async_top](https://github.com/hkatarki/vhd_ycbcr2rgb_sd_computer_async_top)
+This project contains ycbcr to rgb for sd computers (vhd)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+# vhd_ycbcr2rgb_hdtv_async_top
 
-### And an ordered list:
+[vhd_ycbcr2rgb_hdtv_async_top](https://github.com/hkatarki/vhd_ycbcr2rgb_hdtv_async_top)
+This project contains ycbcr to rgb for hd tv (vhd)
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+# vhd_ycbcr2rgb_hd_computer_async_top
 
-### And a nested list:
+[vhd_ycbcr2rgb_hd_computer_async_top](https://github.com/hkatarki/vhd_ycbcr2rgb_hd_computer_async_top)
+This project contains ycbcr to rgb for hd computers (vhd)
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+# vhd_rgb2ycbcr_sdtv_async_top
 
-### Small image
+[vhd_rgb2ycbcr_sdtv_async_top](https://github.com/hkatarki/vhd_rgb2ycbcr_sdtv_async_top)
+This project contains rgb to ycbcr for sd tv (vhd)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+# vhd_rgb2ycbcr_sd_computer_async_top
 
-### Large image
+[vhd_rgb2ycbcr_sd_computer_async_top](https://github.com/hkatarki/vhd_rgb2ycbcr_sd_computer_async_top)
+This project contains rgb to ycbcr for sd computers (vhd)
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# vhd_rgb2ycbcr_hdtv_async_top
 
+[vhd_rgb2ycbcr_hdtv_async_top](https://github.com/hkatarki/vhd_rgb2ycbcr_hdtv_async_top)
+This project contains rgb to ycbcr for hd tv (vhd)
 
-### Definition lists can be used with HTML syntax.
+# vhd_rgb2ycbcr_hd_computer_async_top
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+[vhd_rgb2ycbcr_hd_computer_async_top](https://github.com/hkatarki/vhd_rgb2ycbcr_hd_computer_async_top)
+This project contains rgb to ycbcr for hd computers (vhd)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+# v_ycbcr2rgb_sdtv_async_top
 
-```
-The final element.
-```
+[v_ycbcr2rgb_sdtv_async_top](https://github.com/hkatarki/v_ycbcr2rgb_sdtv_async_top)
+This project contains ycbcr to rgb for sd tv (verilog)
+
+# v_ycbcr2rgb_sd_computer_async_top
+
+[v_ycbcr2rgb_sd_computer_async_top](https://github.com/hkatarki/v_ycbcr2rgb_sd_computer_async_top)
+This project contains ycbcr to rgb for sd computers (verilog)
+
+# v_ycbcr2rgb_hdtv_async_top
+
+[v_ycbcr2rgb_hdtv_async_top](https://github.com/hkatarki/v_ycbcr2rgb_hdtv_async_top)
+This project contains ycbcr to rgb for hd tv (verilog)
+
+# v_ycbcr2rgb_hd_computer_async_top
+
+[v_ycbcr2rgb_hd_computer_async_top](https://github.com/hkatarki/v_ycbcr2rgb_hd_computer_async_top)
+This project contains ycbcr to rgb for hd computers (verilog)
+
+# v_rgb2ycbcr_sdtv_async_top
+
+[v_rgb2ycbcr_sdtv_async_top](https://github.com/hkatarki/v_rgb2ycbcr_sdtv_async_top)
+This project contains rgb to ycbcr for sd tv (verilog)
+
+# v_rgb2ycbcr_sd_computer_async_top
+
+[v_rgb2ycbcr_sd_computer_async_top](https://github.com/hkatarki/v_rgb2ycbcr_sd_computer_async_top)
+This project contains rgb to ycbcr for sd computers (verilog)
+
+# v_rgb2ycbcr_hdtv_async_top
+
+[v_rgb2ycbcr_hdtv_async_top](https://github.com/hkatarki/v_rgb2ycbcr_hdtv_async_top)
+This project contains rgb to ycbcr for hd tv (verilog)
+
+# v_rgb2ycbcr_hd_computer_async_top
+
+[v_rgb2ycbcr_hd_computer_async_top](https://github.com/hkatarki/v_rgb2ycbcr_hd_computer_async_top)
+This project contains rgb to ycbcr for hd computers (verilog)
+
